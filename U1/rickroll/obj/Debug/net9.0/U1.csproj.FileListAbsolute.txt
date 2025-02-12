@@ -1,0 +1,14 @@
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\bin\Debug\net9.0\U1.exe
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\bin\Debug\net9.0\U1.deps.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\bin\Debug\net9.0\U1.runtimeconfig.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\bin\Debug\net9.0\U1.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\bin\Debug\net9.0\U1.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\obj\Debug\net9.0\U1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\obj\Debug\net9.0\U1.AssemblyInfoInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\obj\Debug\net9.0\U1.AssemblyInfo.cs
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\obj\Debug\net9.0\U1.csproj.CoreCompileInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\obj\Debug\net9.0\U1.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\obj\Debug\net9.0\refint\U1.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\obj\Debug\net9.0\U1.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\obj\Debug\net9.0\U1.genruntimeconfig.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\U1\obj\Debug\net9.0\ref\U1.dll

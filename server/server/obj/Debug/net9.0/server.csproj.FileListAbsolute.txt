@@ -1,0 +1,14 @@
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\bin\Debug\net9.0\server.exe
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\bin\Debug\net9.0\server.deps.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\bin\Debug\net9.0\server.runtimeconfig.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\bin\Debug\net9.0\server.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\bin\Debug\net9.0\server.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\obj\Debug\net9.0\server.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\obj\Debug\net9.0\refint\server.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\obj\Debug\net9.0\server.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\server\server\obj\Debug\net9.0\ref\server.dll

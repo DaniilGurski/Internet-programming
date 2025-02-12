@@ -1,0 +1,14 @@
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\bin\Debug\net9.0\client.exe
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\bin\Debug\net9.0\client.deps.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\bin\Debug\net9.0\client.runtimeconfig.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\bin\Debug\net9.0\client.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\bin\Debug\net9.0\client.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\obj\Debug\net9.0\client.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\obj\Debug\net9.0\client.AssemblyInfoInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\obj\Debug\net9.0\client.AssemblyInfo.cs
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\obj\Debug\net9.0\client.csproj.CoreCompileInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\obj\Debug\net9.0\client.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\obj\Debug\net9.0\refint\client.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\obj\Debug\net9.0\client.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\obj\Debug\net9.0\client.genruntimeconfig.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\internet\M1\client\client\obj\Debug\net9.0\ref\client.dll
